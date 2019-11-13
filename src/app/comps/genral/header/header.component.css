@@ -1,0 +1,16 @@
+.header{
+    background:green ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    width: 25%;
+}
+.logo > img{
+    width: 100%;
+}
+app-nev{
+    display: block;
+    width: 50%;
+}
